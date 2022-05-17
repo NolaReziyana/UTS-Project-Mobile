@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "79345875425",
+    "project_id": "resepku-2f839",
+    "storage_bucket": "resepku-2f839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79345875425:android:781ab30a6b1563b2d67aa0",
+        "android_client_info": {
+          "package_name": "com.example.resepku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79345875425-ccgkaon6cotlke40qa46r285k05q7goj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU09MeOOHI7dSURZ6ZSyrWTN8Pn2wCNY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79345875425-ccgkaon6cotlke40qa46r285k05q7goj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
